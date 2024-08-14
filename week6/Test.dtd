@@ -2,4 +2,7 @@
 <!ELEMENT library (book+)>
 <!ELEMENT book (bid,title,author*,pub,cover,pages,rating,value,location,comment?)>
 <!ELEMENT bid EMPTY>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT pub (#PCDATA)>
 
