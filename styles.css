@@ -1,0 +1,14 @@
+#child-divs{
+    border: 2px solid black;
+    flex: auto;
+    margin: 1px;
+}
+
+.h2{
+    text-align: center;
+     color:blue;
+      text-decoration: underline; 
+}
+#main-div{
+    display: flex;
+}

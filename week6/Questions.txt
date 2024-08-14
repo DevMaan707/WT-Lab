@@ -1,0 +1,2 @@
+1. Write an XML file which will display the Book information which includes the following: Write a
+Document Type Definition (DTD) to validate the above XML file.

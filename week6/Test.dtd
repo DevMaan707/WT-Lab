@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT library (book+)>
+<!ELEMENT book (bid,title,author*,pub,cover,pages,rating,value,location,comment?)>
+<!ELEMENT bid EMPTY>
+
